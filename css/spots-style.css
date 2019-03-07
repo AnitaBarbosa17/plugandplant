@@ -1,0 +1,260 @@
+.line{
+	stroke-linecap: round;
+	fill: transparent;
+	stroke: #69ae4c;
+}
+.punto{
+	fill: #69ae4c;
+}
+svg{
+	padding-top: 5px;
+}
+svg #line_01, svg #line_02, svg #line_03{
+	stroke-linecap: round;
+	fill: transparent;
+	stroke: #69ae4c;
+    stroke-width: 3px;
+}
+svg #punto_01, svg #punto_02, svg #punto_03{
+	stroke-linecap: round;
+	stroke: #69ae4c;
+    stroke-width: 3px;
+}
+/*OUT*/
+svg #line_01_in, svg #line_02_in, svg #line_03_in{
+	stroke-linecap: round;
+	fill: transparent;
+	stroke: #69ae4c;
+	stroke-width: 3px;
+}
+svg #punto_01_in, svg #punto_02_in, svg #punto_03_in{
+	stroke-linecap: round;
+	stroke: #69ae4c;
+	stroke-width: 3px;
+}
+
+.ojitoContainer{
+	position: absolute;
+	-webkit-transform: translate(-50%, -50%);
+  	-moz-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+/*OJITO CONTAINER ES EL CONTENEDOR DEL BOTÓN, LA LINEA SVG, EL ICONO, EL TITULO Y EL TEXTO DE CADA HOTSPOT*/
+	/*OUTSIDE*/
+#spot_01 .ojitoContainer {
+    top: 68%;
+    right: 25%;
+}
+/*POSICIÓN DE CADA CAJA DE TEXTO DEL HOTSPOT (ICON, TITULO Y TEXTO*/
+#icon_01 {
+    left: 60px;
+    top: -50px;
+    width: 170px !important;
+}
+/*POSICIÓN DE CADA BOTON  OJITO*/
+#ojito_01 {
+    bottom: -40px;
+    right: 50px;
+}
+#spot_02 .ojitoContainer {
+    top: 20%;
+    left: 65%;
+}
+#icon_02 {
+    top: 60px;
+    left: 20px;
+}
+#ojito_02 {
+    left: 0px;
+    top: 10px;
+}
+#spot_03 .ojitoContainer {
+    top: 35%;
+    left: 28%;
+}
+#icon_03 {
+    top: 70px;
+    left: -190px;
+}
+#ojito_03 {
+    left: 90px;
+    top: 0px;
+}
+#spot_04 .ojitoContainer {
+    top: 60%;
+    left: 30%;
+}
+#icon_04 {
+    top: -50px;
+    left: -180px;
+    width: 190px !important;
+}
+#ojito_04 {
+    left: 90px;
+    top: 120px;
+}
+#spot_05 .ojitoContainer{
+    top: 30%;
+    left: 70%;
+}
+#icon_05 {
+    top: 80px;
+}
+#ojito_05 {
+    top: 0;
+    left: -20px;
+}
+#spot_06 .ojitoContainer {
+    top: 60%;
+    left: 65%;
+}
+#icon_06 {
+    top: -30%;
+    left: 70%;
+}
+#spot_07 .ojitoContainer {
+    top: 30%;
+    left: 40%;
+}
+#icon_07 {
+    left: -230%;
+    top: 60%;
+}
+#ojito_07 {
+    top: 0;
+    right: -60%;
+}
+#spot_08 .ojitoContainer {
+    top: 60%;
+    left: 38%;
+}
+#icon_08 {
+    top: -40%;
+    left: -240%;
+}
+#ojito_08 {
+    bottom: -25%;
+    right: -60%;
+}
+
+/*INSIDE*/
+#spot_01_in .ojitoContainer {
+    top: 20%;
+    left: 35%;
+}
+#icon_01_in {
+    top: -30%;
+    left: -250%;
+}
+#ojito_01_in {
+    bottom: -20%;
+    right: -60%;
+}
+#spot_02_in .ojitoContainer {
+    top: 30%;
+    left: 70%;
+}
+#icon_02_in {
+    top: -40%;
+    right: -230%;
+}
+#ojito_02_in {
+    bottom: -20%;
+    left: -10%;
+}
+#spot_03_in .ojitoContainer {
+    top: 30%;
+    left: 37%;
+}
+#icon_03_in {
+    top: -70%;
+    left: -200px;
+}
+#ojito_03_in {
+    top: 120px;
+    left: 100%;
+}
+
+
+.btnOjito{
+	background-color: #363636;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+ 	-webkit-transform: translate(-50%, -50%);
+  	-moz-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	cursor: pointer;
+	transition: transform 0.15s cubic-bezier(0.4, 0.0, 1, 1), opacity 0.1s 0.1s, box-shadow 0.3s;
+	opacity: 1;
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.12), 0 6px 6px rgba(0, 0, 0, 0.24);
+	z-index: 99999;
+}
+
+
+.btnOjito.open {
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50px, 40px);
+	opacity: 0;
+}
+.btnOjito:hover {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.12), 0 12px 12px rgba(0, 0, 0, 0.24);
+}
+.btnOjito:after{
+	content: '';
+    background-image: url(../img/ojito.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 50%;
+    height: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+ 	-webkit-transform: translate(-50%, -50%);
+  	-moz-transform: translate(-50%, -50%);
+  	-ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+@media only screen and (max-width: 1399px) and (min-width: 1200px){
+    #spot_01 .ojitoContainer {
+        top: 60%;
+        right: 20%;
+    }
+    #spot_02 .ojitoContainer {
+        top: 40%;
+        left: 65%;
+    }
+    #icon_03 {
+        top: 70px;
+        left: -160px;
+    }
+    #spot_03 .ojitoContainer {
+        top: 35%;
+        left: 33%;
+    }
+    #spot_06 .ojitoContainer {
+        top: 55%;
+        left: 60%;
+    }
+    #spot_01_in .ojitoContainer {
+        top: 26%;
+        left: 35%;
+    }
+    #icon_01_in {
+        top: -30%;
+        left: -210%;
+    }
+    #spot_02_in .ojitoContainer {
+        top: 38%;
+        left: 62%;
+    }
+}
+
+

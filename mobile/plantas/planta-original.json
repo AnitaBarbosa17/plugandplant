@@ -1,0 +1,252 @@
+{"frames": {
+
+"genovesebasil-grow15_00000.png":
+{
+	"frame": {"x":145,"y":1735,"w":142,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":659,"w":142,"h":284},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00001.png":
+{
+	"frame": {"x":289,"y":1735,"w":142,"h":284},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":659,"w":142,"h":284},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00002.png":
+{
+	"frame": {"x":1,"y":1735,"w":142,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":654,"w":142,"h":289},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00003.png":
+{
+	"frame": {"x":433,"y":1645,"w":142,"h":354},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":589,"w":142,"h":354},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00004.png":
+{
+	"frame": {"x":771,"y":1576,"w":142,"h":453},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":490,"w":142,"h":453},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00005.png":
+{
+	"frame": {"x":627,"y":1576,"w":142,"h":471},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":478,"y":472,"w":142,"h":471},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00006.png":
+{
+	"frame": {"x":1944,"y":1,"w":200,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":463,"y":466,"w":200,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00007.png":
+{
+	"frame": {"x":1944,"y":480,"w":200,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":463,"y":466,"w":200,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00008.png":
+{
+	"frame": {"x":1944,"y":959,"w":200,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":463,"y":466,"w":200,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00009.png":
+{
+	"frame": {"x":1923,"y":1438,"w":200,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":463,"y":466,"w":200,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00010.png":
+{
+	"frame": {"x":1468,"y":1037,"w":213,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":450,"y":466,"w":213,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00011.png":
+{
+	"frame": {"x":1468,"y":558,"w":221,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":442,"y":466,"w":221,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00012.png":
+{
+	"frame": {"x":1683,"y":1047,"w":238,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":466,"w":238,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00013.png":
+{
+	"frame": {"x":1421,"y":1516,"w":238,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":466,"w":238,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00014.png":
+{
+	"frame": {"x":1661,"y":1526,"w":238,"h":477},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":466,"w":238,"h":477},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00015.png":
+{
+	"frame": {"x":1704,"y":540,"w":238,"h":505},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":438,"w":238,"h":505},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00016.png":
+{
+	"frame": {"x":1704,"y":1,"w":238,"h":537},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":406,"w":238,"h":537},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00017.png":
+{
+	"frame": {"x":1455,"y":1,"w":247,"h":555},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":388,"w":247,"h":555},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00018.png":
+{
+	"frame": {"x":1172,"y":1343,"w":247,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":368,"w":247,"h":575},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00019.png":
+{
+	"frame": {"x":1219,"y":625,"w":247,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":368,"w":247,"h":575},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00020.png":
+{
+	"frame": {"x":923,"y":1343,"w":247,"h":599},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":344,"w":247,"h":599},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00021.png":
+{
+	"frame": {"x":1206,"y":1,"w":247,"h":622},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":321,"w":247,"h":622},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00022.png":
+{
+	"frame": {"x":957,"y":1,"w":247,"h":657},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":416,"y":286,"w":247,"h":657},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00023.png":
+{
+	"frame": {"x":661,"y":1,"w":294,"h":669},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":274,"w":294,"h":669},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00024.png":
+{
+	"frame": {"x":923,"y":672,"w":294,"h":669},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":274,"w":294,"h":669},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00025.png":
+{
+	"frame": {"x":627,"y":862,"w":294,"h":712},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":231,"w":294,"h":712},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00026.png":
+{
+	"frame": {"x":331,"y":862,"w":294,"h":781},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":162,"w":294,"h":781},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00027.png":
+{
+	"frame": {"x":331,"y":1,"w":328,"h":859},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":84,"w":328,"h":859},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00028.png":
+{
+	"frame": {"x":1,"y":1,"w":328,"h":865},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":78,"w":328,"h":865},
+	"sourceSize": {"w":1080,"h":1080}
+},
+"genovesebasil-grow15_00029.png":
+{
+	"frame": {"x":1,"y":868,"w":328,"h":865},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":369,"y":78,"w":328,"h":865},
+	"sourceSize": {"w":1080,"h":1080}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "planta.png",
+	"format": "RGBA8888",
+	"size": {"w":2145,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d4b537fd57383fb96972745d12b66537:66bdeaf697f9b7168fb854ff943c1432:d40a4c1022603dbbe2be30498e11c529$"
+}
+}

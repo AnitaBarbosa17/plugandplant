@@ -1,0 +1,460 @@
+{"frames": {
+
+"tatsoigrow8_00000.png":
+{
+	"frame": {"x":1461,"y":1499,"w":60,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":274,"w":60,"h":119},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00001.png":
+{
+	"frame": {"x":1399,"y":1499,"w":60,"h":145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":248,"w":60,"h":145},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00002.png":
+{
+	"frame": {"x":1893,"y":1230,"w":84,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":180,"y":188,"w":84,"h":205},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00003.png":
+{
+	"frame": {"x":1560,"y":1480,"w":137,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":188,"w":137,"h":205},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00004.png":
+{
+	"frame": {"x":1699,"y":1480,"w":137,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":188,"w":137,"h":205},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00005.png":
+{
+	"frame": {"x":1754,"y":1230,"w":137,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":188,"w":137,"h":205},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00006.png":
+{
+	"frame": {"x":1838,"y":1437,"w":159,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":132,"w":159,"h":261},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00007.png":
+{
+	"frame": {"x":1593,"y":1214,"w":159,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":129,"w":159,"h":264},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00008.png":
+{
+	"frame": {"x":1399,"y":1233,"w":159,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":129,"w":159,"h":264},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00009.png":
+{
+	"frame": {"x":1593,"y":948,"w":192,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":129,"w":192,"h":264},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00010.png":
+{
+	"frame": {"x":1797,"y":945,"w":192,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":110,"w":192,"h":283},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00011.png":
+{
+	"frame": {"x":1399,"y":948,"w":192,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":110,"w":192,"h":283},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00012.png":
+{
+	"frame": {"x":1797,"y":639,"w":197,"h":304},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":89,"w":197,"h":304},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00013.png":
+{
+	"frame": {"x":1200,"y":1277,"w":197,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":86,"w":197,"h":307},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00014.png":
+{
+	"frame": {"x":1399,"y":639,"w":197,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":86,"w":197,"h":307},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00015.png":
+{
+	"frame": {"x":1598,"y":639,"w":197,"h":307},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":86,"w":197,"h":307},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00016.png":
+{
+	"frame": {"x":1001,"y":1,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00017.png":
+{
+	"frame": {"x":1,"y":1,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00018.png":
+{
+	"frame": {"x":1,"y":320,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00019.png":
+{
+	"frame": {"x":1,"y":639,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00020.png":
+{
+	"frame": {"x":1,"y":958,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00021.png":
+{
+	"frame": {"x":1,"y":1277,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00022.png":
+{
+	"frame": {"x":1200,"y":1,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00023.png":
+{
+	"frame": {"x":1399,"y":1,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00024.png":
+{
+	"frame": {"x":1598,"y":1,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00025.png":
+{
+	"frame": {"x":201,"y":1,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00026.png":
+{
+	"frame": {"x":201,"y":320,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00027.png":
+{
+	"frame": {"x":201,"y":639,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00028.png":
+{
+	"frame": {"x":201,"y":958,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00029.png":
+{
+	"frame": {"x":1797,"y":1,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00030.png":
+{
+	"frame": {"x":1001,"y":320,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00031.png":
+{
+	"frame": {"x":201,"y":1277,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00032.png":
+{
+	"frame": {"x":401,"y":1,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00033.png":
+{
+	"frame": {"x":401,"y":320,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00034.png":
+{
+	"frame": {"x":401,"y":639,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00035.png":
+{
+	"frame": {"x":1001,"y":639,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00036.png":
+{
+	"frame": {"x":1001,"y":958,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00037.png":
+{
+	"frame": {"x":1001,"y":1277,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00038.png":
+{
+	"frame": {"x":401,"y":958,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00039.png":
+{
+	"frame": {"x":401,"y":1277,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00040.png":
+{
+	"frame": {"x":601,"y":1,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00041.png":
+{
+	"frame": {"x":601,"y":320,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00042.png":
+{
+	"frame": {"x":1200,"y":320,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00043.png":
+{
+	"frame": {"x":1399,"y":320,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":117,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00044.png":
+{
+	"frame": {"x":601,"y":639,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00045.png":
+{
+	"frame": {"x":601,"y":958,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00046.png":
+{
+	"frame": {"x":601,"y":1277,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00047.png":
+{
+	"frame": {"x":801,"y":1,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00048.png":
+{
+	"frame": {"x":1598,"y":320,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00049.png":
+{
+	"frame": {"x":1797,"y":320,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00050.png":
+{
+	"frame": {"x":1200,"y":639,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00051.png":
+{
+	"frame": {"x":1200,"y":958,"w":197,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":197,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00052.png":
+{
+	"frame": {"x":801,"y":320,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00053.png":
+{
+	"frame": {"x":801,"y":639,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00054.png":
+{
+	"frame": {"x":801,"y":958,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+},
+"tatsoigrow8_00055.png":
+{
+	"frame": {"x":801,"y":1277,"w":198,"h":317},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":76,"w":198,"h":317},
+	"sourceSize": {"w":450,"h":450}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "tatsoi.png",
+	"format": "RGBA8888",
+	"size": {"w":1998,"h":1699},
+	"scale": "0.41667",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdd61f6a63fa4ea0382ed5317c420681:2a6d70bf141a9885899b3264e97f0faf:d364dad37c7f39b77498ff13f28ed0ce$"
+}
+}

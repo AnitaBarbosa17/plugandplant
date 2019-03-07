@@ -1,0 +1,154 @@
+svg .line{
+	stroke-linecap: round;
+	fill: transparent;
+	stroke: #96d571;
+	stroke-width: 5;
+}
+
+svg .linecirculo{
+	stroke-linecap: round;
+	stroke: #96d571;
+	stroke-width: 12;
+}
+
+svg #line_01, svg #line_02, svg #line_03{
+	stroke-linecap: round;
+	fill: transparent;
+	stroke: #96d571;
+	stroke-width: 5;
+}
+
+svg #linecirculo_01, svg #linecirculo_02, svg #linecirculo_03{
+	stroke-linecap: round;
+	stroke: #96d571;
+	stroke-width: 12;
+}
+/*OUT*/
+svg #line_01_in, svg #line_02_in, svg #line_03_in{
+    stroke-linecap: round;
+    fill: transparent;
+    stroke: #96d571;
+    stroke-width: 5;
+}
+
+svg #punto_01_in, svg #punto_02_in, svg #punto_03_in{
+    stroke-linecap: round;
+    stroke: #96d571;
+    stroke-width: 4;
+}
+
+.ojitoContainer{
+	position: absolute;
+}
+.spots{
+    height: 0;
+}
+#spot_01 {
+    bottom: 0;
+    width: 100%;
+    /*height: 100vh;*/
+    left: 0;
+}
+#spot_02 .imgIcons img {
+    width: 70%;
+}
+#spot_03 .imgIcons img {
+    width: 70%;
+}
+
+#ojito_01 {
+    bottom: 30%;
+    right: 30%;
+}
+#ojito_02 {
+    bottom: 80%;
+    right: 30%;
+}
+#ojito_03 {
+    left: 30%;
+    bottom: 80%;
+}
+#ojito_04 {
+    bottom: 40%;
+    left: 30%;
+}
+#ojito_05 {
+    bottom: 60%;
+    right: 30%;
+}
+#ojito_06 {
+    bottom: 40%;
+    right: 35%;
+}
+#ojito_07 {
+    bottom: 70%;
+    left: 30%;
+}
+#ojito_08 {
+    bottom: 40%;
+    left: 30%;
+}
+
+/*OUT*/
+#spot_01_in {
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    left: 0;
+}
+#spot_01_in .ojitoContainer{
+    top: 0%;
+    left: 0%;
+}
+
+#ojito_01_in {
+    bottom: 100%;
+    right: 30%;
+}
+
+#spot_02_in .ojitoContainer{
+    top: 30%;
+    left: 70%;
+}
+#spot_03_in .ojitoContainer{
+    top: 60%;
+    left: 80%;
+}
+#spot_02_in .imgIcons img {
+    width: 30%;
+}
+#spot_03_in .imgIcons img {
+    width: 30%;
+}
+.btnOjito{
+	background-color: #363636;
+	border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+	cursor: pointer;
+	transition: transform 0.15s cubic-bezier(0.4, 0.0, 1, 1), opacity 0.1s 0.1s, box-shadow 0.3s;
+	opacity: 1;
+	box-shadow: 0 0 6px rgba(0, 0, 0, 0.12), 0 6px 6px rgba(0, 0, 0, 0.24);
+	z-index: 99999;
+}
+.btnOjito.open {
+  transform: translate(-50px, 40px);
+  opacity: 0;
+}
+.btnOjito:hover {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.12), 0 12px 12px rgba(0, 0, 0, 0.24);
+}
+.btnOjito:after{
+	content: '';
+    background-image: url(../../img/ojito.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    width: 50%;
+    height: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
